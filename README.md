@@ -4,7 +4,7 @@ A social network for Ryerson University computer science students.
 
 Created using MongoDB, Express, React, and Node.js.
 
-## Features
+## 🧰 Features
 
 Features to be implemented.
 
@@ -29,7 +29,7 @@ Currently creating API routes.
 
 To be implemented using React and Redux.
 
-## Dependencies
+## 🔧 Dependencies
 
 - **express**
 
@@ -58,7 +58,10 @@ To be implemented using React and Redux.
 - **request**
 - **gravatar**
 
-## Dev Dependencies
+## 📦 Dev Dependencies
 
-- nodemon
-- concurrently
+- **nodemon**
+
+  Constant monitoring of server updates. Automatically restart on change.
+
+- **concurrently**
