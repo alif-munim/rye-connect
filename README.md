@@ -14,9 +14,21 @@ Created using MongoDB, Express, React, and Node.js.
 ## Dependencies
 
 - express
+
+  A framework for Node.js. Minimal tools for handling HTTP request and response.
+
 - mongoose
+
+  An Object Data Modeling (ODM) for MongoDB and Node.js. Used to create document schemas and model data.
+
 - bcryptjs
+
+  For hashing passwords before storing them in MongoDB.
+
 - express-validator
+
+  For validating user input and sending the appropriate error response on invalid input.
+
 - jsonwebtoken
 - config
 - request
