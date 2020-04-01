@@ -14,16 +14,16 @@ Currently creating API routes.
 
 #### Setup
 
-- [ ] Install dependencies
-- [ ] Build server, create basic routes
-- [ ] Connect to database
+- [x] Install dependencies
+- [x] Build server, create basic routes
+- [x] Connect to database
 
 #### Registration & Login
 
-- [ ] Create user schema
-- [ ] POST request for user registration
-- [ ] POST request for user login
-- [ ] User authentication & protected routes with JWT
+- [x] Create user schema
+- [x] POST request for user registration
+- [x] POST request for user login
+- [x] User authentication & protected routes with JWT
 
 ### Front-End
 
