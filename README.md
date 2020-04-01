@@ -31,6 +31,10 @@ To be implemented using React and Redux.
 
 ## 🔧 Dependencies
 
+```bash
+npm i express mongoose bcryptjs express-validator jsonwebtoken config request gravatar
+```
+
 - **express**
 
   A framework for Node.js. Minimal tools for handling HTTP request and response.
