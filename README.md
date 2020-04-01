@@ -30,6 +30,9 @@ Created using MongoDB, Express, React, and Node.js.
   For validating user input and sending the appropriate error response on invalid input.
 
 - jsonwebtoken
+
+  Return a json web token upon user registration or login. Users will be able to access protected routes with this token in request headers.
+
 - config
 - request
 - gravatar
