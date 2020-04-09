@@ -28,6 +28,7 @@ Currently creating API routes.
 ### Front-End
 
 To be implemented using React and Redux.
+Starting on April 9th, 2020.
 
 ## 🔧 Dependencies
 
