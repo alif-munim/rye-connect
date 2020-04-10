@@ -25,6 +25,28 @@ Currently creating API routes.
 - [x] POST request for user login
 - [x] User authentication & protected routes with JWT
 
+#### User Profiles
+
+- [x] Create profile schema
+- [x] POST route to create new profile
+- [x] PUT route to update existing profile
+- [x] GET route for all profiles
+- [x] GET route for single profile by id
+- [x] DELETE route for profile and user
+- [x] POST, DELETE routes for profile education
+- [x] POST, DELETE routes for profile experience
+- [x] Retrieve recent GitHub repos using GitHub API
+
+#### Posts
+
+- [x] Create post schema
+- [x] POST route to add a post
+- [x] GET route for all post
+- [x] GET route for single post by id
+- [x] DELETE route to remove a post
+- [x] PUT routes for liking and unliking
+- [x] POST, DELETE routes for comments
+
 ### Front-End
 
 To be implemented using React and Redux.
