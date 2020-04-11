@@ -42,6 +42,8 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
 - **request**
 - **gravatar**
+  <br/>
+  <br/>
 
 ### 📦 Dev Dependencies
 
@@ -53,20 +55,25 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
   Allows server and client processes to run concurrently.
 
-### Setup
+<br/>
+<br/>
+
+### 🧰 To-Do
+
+#### Setup
 
 - [x] Install dependencies
 - [x] Build server, create basic routes
 - [x] Connect to database
 
-### Registration & Login
+#### Registration & Login
 
 - [x] Create user schema
 - [x] POST request for user registration
 - [x] POST request for user login
 - [x] User authentication & protected routes with JWT
 
-### User Profiles
+#### User Profiles
 
 - [x] Create profile schema
 - [x] POST route to create new profile
@@ -78,7 +85,7 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 - [x] POST, DELETE routes for profile experience
 - [x] Retrieve recent GitHub repos using GitHub API
 
-### Posts
+#### Posts
 
 - [x] Create post schema
 - [x] POST route to add a post
