@@ -3,6 +3,8 @@
 A social network for Ryerson University computer science students.
 
 Created using MongoDB, Express, React, and Node.js.
+<br/>
+<br/>
 
 ## Back-End
 
@@ -54,9 +56,8 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 - **concurrently**
 
   Allows server and client processes to run concurrently.
-
-<br/>
-<br/>
+  <br/>
+  <br/>
 
 ### 🧰 To-Do
 
@@ -94,6 +95,9 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 - [x] DELETE route to remove a post
 - [x] PUT routes for liking and unliking
 - [x] POST, DELETE routes for comments
+
+<br/>
+<br/>
 
 ## Front-End
 
