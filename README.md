@@ -10,7 +10,7 @@ Created using MongoDB, Express, React, and Node.js.
 
 Currently creating API routes.
 
-### 🔧 Dependencies
+### Dependencies
 
 ```bash
 npm i express mongoose bcryptjs express-validator jsonwebtoken config request gravatar
@@ -43,7 +43,7 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 - **request**
 - **gravatar**
 
-### 📦 Dev Dependencies
+### Dev Dependencies
 
 - **nodemon**
 
@@ -53,7 +53,7 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
   Allows server and client processes to run concurrently.
 
-### 🧰 To-Do
+### To-Do
 
 #### Setup
 
