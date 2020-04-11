@@ -28,8 +28,9 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
 - config: set configurations for app deployment. Store environment variables, database connection URI.
 
-- request
-- gravatar
+- request: make http call to github API to load recent user repos.
+
+- gravatar: globally recognized avatars. Fetches profile image associated with an email for display on posts and comments.
 
 ### Dev Dependencies
 
@@ -81,9 +82,9 @@ Posts
 
 ### Dependencies
 
-- axios
+- axios: to make http requests
 - react-dom
-- react-router-dom
+- react-router-dom: to create routes and links to different react components.
 - moment
 - react-moment
 - redux
