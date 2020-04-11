@@ -4,13 +4,11 @@ A social network for Ryerson University computer science students.
 
 Created using MongoDB, Express, React, and Node.js.
 
-## 🧰 Features
-
-Features to be implemented.
-
 ## Back-End
 
 Currently creating API routes.
+<br/>
+<br/>
 
 ### 🔧 Dependencies
 
