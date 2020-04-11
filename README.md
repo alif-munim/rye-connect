@@ -16,13 +16,9 @@ Currently creating API routes.
 npm i express mongoose bcryptjs express-validator jsonwebtoken config request gravatar
 ```
 
-- **express**
+- **express**: a framework for Node.js. Minimal tools for handling HTTP request and response.
 
-  A framework for Node.js. Minimal tools for handling HTTP request and response.
-
-- **mongoose**
-
-  An Object Data Modeling (ODM) for MongoDB and Node.js. Used to create document schemas and model data.
+- **mongoose**: an Object Data Modeling (ODM) for MongoDB and Node.js. Used to create document schemas and model data.
 
 - **bcryptjs**
 
@@ -95,5 +91,13 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
 ## 🕹 Front-End
 
-To be implemented using React and Redux.
-Starting on April 9th, 2020.
+### Dependencies
+
+- axios
+- react-dom
+- react-router-dom
+- moment
+- react-moment
+- redux
+- redux-devtools-extension
+- redux-thunk
