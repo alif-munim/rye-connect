@@ -20,51 +20,39 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
 - **mongoose**: an Object Data Modeling (ODM) for MongoDB and Node.js. Used to create document schemas and model data.
 
-- **bcryptjs**
+- **bcryptjs**: for hashing passwords before storing them in MongoDB.
 
-  For hashing passwords before storing them in MongoDB.
+- **express-validator**: for validating user input and sending the appropriate error response on invalid input.
 
-- **express-validator**
+- **jsonwebtoken**: return a json web token upon user registration or login. Users will be able to access protected routes with this token in request headers.
 
-  For validating user input and sending the appropriate error response on invalid input.
-
-- **jsonwebtoken**
-
-  Return a json web token upon user registration or login. Users will be able to access protected routes with this token in request headers.
-
-- **config**
-
-  Set configurations for app deployment. Store environment variables, database connection URI.
+- **config**: set configurations for app deployment. Store environment variables, database connection URI.
 
 - **request**
 - **gravatar**
 
 ### Dev Dependencies
 
-- **nodemon**
+- **nodemon**: constant monitoring of server updates. Automatically restart on change.
 
-  Constant monitoring of server updates. Automatically restart on change.
-
-- **concurrently**
-
-  Allows server and client processes to run concurrently.
+- **concurrently**: allows server and client processes to run concurrently.
 
 ### To-Do
 
-#### Setup
+Setup
 
 - [x] Install dependencies
 - [x] Build server, create basic routes
 - [x] Connect to database
 
-#### Registration & Login
+Registration & Login
 
 - [x] Create user schema
 - [x] POST request for user registration
 - [x] POST request for user login
 - [x] User authentication & protected routes with JWT
 
-#### User Profiles
+User Profiles
 
 - [x] Create profile schema
 - [x] POST route to create new profile
@@ -76,7 +64,7 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 - [x] POST, DELETE routes for profile experience
 - [x] Retrieve recent GitHub repos using GitHub API
 
-#### Posts
+Posts
 
 - [x] Create post schema
 - [x] POST route to add a post
