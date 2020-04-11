@@ -6,7 +6,7 @@ Created using MongoDB, Express, React, and Node.js.
 <br/>
 <br/>
 
-## Back-End
+## 🧰 Back-End
 
 Currently creating API routes.
 
@@ -93,7 +93,7 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 <br/>
 <br/>
 
-## Front-End
+## 🕹 Front-End
 
 To be implemented using React and Redux.
 Starting on April 9th, 2020.
