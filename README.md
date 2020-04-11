@@ -9,8 +9,6 @@ Created using MongoDB, Express, React, and Node.js.
 ## Back-End
 
 Currently creating API routes.
-<br/>
-<br/>
 
 ### 🔧 Dependencies
 
@@ -44,8 +42,6 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
 - **request**
 - **gravatar**
-  <br/>
-  <br/>
 
 ### 📦 Dev Dependencies
 
@@ -56,8 +52,6 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 - **concurrently**
 
   Allows server and client processes to run concurrently.
-  <br/>
-  <br/>
 
 ### 🧰 To-Do
 
