@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://admin:rhino94@cluster0-6pm5w.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "4c8f91bcc2d29bc3bc01",
+    "githubSecret": "f92dba8a1e8a3b14494d300a27b3428a92ae28b6"
+  }
+  
