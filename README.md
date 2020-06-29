@@ -6,11 +6,7 @@ Created using MongoDB, Express, React, and Node.js.
 <br/>
 <br/>
 
-## 🧰 Back-End
-
-Currently creating API routes.
-
-### Dependencies
+### 🧰 Back-End Dependencies
 
 ```bash
 npm i express mongoose bcryptjs express-validator jsonwebtoken config request gravatar
@@ -32,8 +28,6 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
 - gravatar: globally recognized avatars. Fetches profile image associated with an email for display on posts and comments.
 
-### Dev Dependencies
-
 - nodemon: constant monitoring of server updates. Automatically restart on change.
 
 - concurrently: allows server and client processes to run concurrently.
@@ -41,9 +35,7 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 <br/>
 <br/>
 
-## 🕹 Front-End
-
-### Dependencies
+### 🕹 Front-End Dependencies
 
 - axios: to make http requests
 - react-dom
