@@ -1,4 +1,4 @@
-# Rye Connect
+# 🐏 Rye Connect
 
 A social network for Ryerson University computer science students.
 
@@ -22,7 +22,7 @@ Rye-Connect was designed to be a fully-fledged social network for students acros
 <br/>
 
 
-# Back-End 
+# 🧰 Back-End 
 
 The most sensible approach to begin a project like this was to start with the back-end. Once the routing is complete and the API constructed, completing the remainder of the project is a matter of building around it. Using express made starting up the server and creating routes for simple `get`, `post`, `put`, and `delete` requests required in a REST API much simpler. Much of the data also needed to be modeled to verify user input, and for these tasks **MongoDB Atlas** was used. 
 
@@ -54,7 +54,7 @@ npm i express mongoose bcryptjs express-validator jsonwebtoken config request gr
 
 <br/><br/>
 
-# Front-End 
+# 🕹 Front-End 
 
 The front-end of this application, although seemingly simpled, proved to be the most challenging part. Managing state among so many different components turned out to be a tedious endeavor, but react-redux came to the rescue. Although it initially seemed merely to add an another layer of complexity, redux provided an intuitive way to connect to the back-end API and manage application-wide state using types, actions, and reducers.
 
@@ -65,3 +65,20 @@ The front-end of this application, although seemingly simpled, proved to be the 
 - react-router-dom: to create routes and links to different react components.
 - moment, react-moment: package for formatting date and time
 - redux, redux-devtools-extension, redux-thunk: a javascript library for managing application-level state, commonly referred to a "single source of truth"
+
+<br/><br/>
+
+# Screenshots
+
+### Login & Registration
+<kbd><img align="left" width="200" src="https://i.ibb.co/0cMW4mL/registration-01.png" alt="registration-01" border="0"></kbd>
+<kbd><img align="left" width="200" src="https://i.ibb.co/Wztwp03/login-01.png" alt="login-01" border="0"></kbd>
+
+### Posts
+<kbd><img align="left" width="200" src="https://i.ibb.co/D55bjd5/posts-01.png" alt="posts-01" border="0"></kbd>
+<kbd><img align="left" width="200" src="https://i.ibb.co/1RFYck7/posts-02.png" alt="posts-02" border="0"></kbd>
+
+### Dashboard & Profiles
+<kbd><img align="left" width="200" src="https://i.ibb.co/N3BXjJ0/profile-01.png" alt="profile-01" border="0"></kbd>
+<kbd><img style="border:1px solid black" align="left" width="200" src="https://i.ibb.co/Z8cx1X7/dashboard-01.png" alt="dashboard-01" border="0"></kbd>
+<kbd><img align="left" width="200" src="https://i.ibb.co/X25zxFq/developers-01.png" alt="developers-01" border="0"></kbd>
